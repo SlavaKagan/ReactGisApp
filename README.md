@@ -12,6 +12,8 @@ Open the repository with Terminal or other IDE. <br />
 2. npm install <br />
 3. npm run dev <br />
 
+Local:   http://127.0.0.1:5173/
+
 ## General info about the task
 **GitHub repository:** https://github.com/SlavaKagan/ReactGisApp <br />
 
